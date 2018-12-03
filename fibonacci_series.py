@@ -1,8 +1,6 @@
 #Fibonacci series
 #name Pratik Badhe 
 #M-2 11810754
-
-
 def fibonaci(n):
    a=0
    b=1
