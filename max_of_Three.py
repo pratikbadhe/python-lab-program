@@ -1,5 +1,6 @@
 #Max of Three
-#Pratik Badhe 02 11810754
+#Pratik Badhe 
+#M-02 11810754
 def max_of_two(x,y):
     if x>y:
         return x
