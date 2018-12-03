@@ -1,8 +1,6 @@
 #Factorial of number
 #name Pratik Badhe 
 #M-02 11810754
-
-
 def facto(x): 
    if x==0:
       print("1")
