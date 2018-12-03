@@ -1,5 +1,6 @@
 #Fibonacci series
-#name Pratik Badhe 2 11810754
+#name Pratik Badhe 
+#M-2 11810754
 
 
 def fibonaci(n):
