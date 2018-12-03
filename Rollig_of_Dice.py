@@ -1,6 +1,5 @@
-#name Pratik Badhe
-#roll no. 02
-#Gr no. 11810754
+#Rolling of dice 
+#name Pratik Badhe 02 11810754
 
 from random  import randint as rt
 out=0
