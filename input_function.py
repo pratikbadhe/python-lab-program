@@ -1,3 +1,6 @@
+#Input Function
+#Pratik Badhe
+#M-02 11810754
 name=input("kindly input your name=\t")
 grno=int(input("kindly enter your grno=\t"))
 rollno=int(input("kindly enter yoyr rollno=\t"))
