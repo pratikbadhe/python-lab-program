@@ -1,6 +1,5 @@
-#name Pratik Badhe
-#roll no 02
-#gr no 11810754
+#Fibonacci series
+#name Pratik Badhe 2 11810754
 
 
 def fibonaci(n):
