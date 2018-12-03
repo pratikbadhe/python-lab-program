@@ -1,7 +1,5 @@
 #Armstrong number
-#name Pratik Badhe
-#roll no. 02
-#gr no 11810754
+#name Pratik Badhe 02 11810754
 def armstrong(n):
    sum=0
    t=n
