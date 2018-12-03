@@ -1,6 +1,5 @@
-#name Pratik Badhe
-#roll no. 02
-#gr no 11810754
+#Factorial of number
+#name Pratik Badhe 02 11810754
 
 
 def facto(x): 
