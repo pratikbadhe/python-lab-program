@@ -1,5 +1,6 @@
 #Factorial of number
-#name Pratik Badhe 02 11810754
+#name Pratik Badhe 
+#M-02 11810754
 
 
 def facto(x): 
