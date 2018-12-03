@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 19 12:29:17 2018
-
-@author: angish
-"""
-#angishbhandwalkar m-03
+#Pratik Badhe M-02 11810754
 
 from easygui import *
 import sys
