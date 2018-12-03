@@ -1,6 +1,5 @@
-#Pratik Badhe
-#02
-#11810754
+#Online Shopping 
+#Pratik Badhe 02 11810754
 from easygui import*
 import sys
 sum=0
