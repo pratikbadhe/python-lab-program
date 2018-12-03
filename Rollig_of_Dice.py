@@ -1,5 +1,6 @@
 #Rolling of dice 
-#name Pratik Badhe 02 11810754
+#name Pratik Badhe 
+#M-02 11810754
 
 from random  import randint as rt
 out=0
